@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hi there, I'm Promod Muthuram R 👋
 
-<!--
-**PROMOD-MUTHURAM/PROMOD-MUTHURAM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Entry-level **Software Developer** based in Madurai, India, specializing in cross-platform mobile applications and AI-powered desktop solutions.
 
-Here are some ideas to get you started:
+- 📱 **Mobile & Web:** Flutter, Dart, Firebase, Android Studio, HTML, CSS, JavaScript, PHP, MySQL
+- 🤖 **AI & Data Science:** Python, OpenAI Whisper, Speech-to-Text, Scikit-Learn, TensorFlow, PyTorch, Power BI, Tableau
+- 💻 **Languages:** Python, Java, Dart, C, C++, SQL
+- 📫 **Email:** promodmuthuram29@gmail.com
+- 🔗 **LinkedIn:** [://linkedin.com](https://www.://linkedin.com/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🚀 Featured Projects
+1. **Customized Staff Attendance Management App** — Multi-branch Flutter & Firebase mobile app with QR code scanning and 15-meter GPS geofencing.
+2. **AI-Based Voice Recognition Oral Examination System** — Automated Python & OpenAI Whisper desktop app with speech-to-text transcription and semantic grading.
