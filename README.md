@@ -10,5 +10,5 @@ Entry-level **Software Developer** based in Madurai, India, specializing in cros
 
 
 #### 🚀 Featured Projects
-1. **Customized Staff Attendance Management App** — Multi-branch Flutter & Firebase mobile app with QR code scanning and 15-meter GPS geofencing.
-2. **AI-Based Voice Recognition Oral Examination System** — Automated Python & OpenAI Whisper desktop app with speech-to-text transcription and semantic grading.
+1. [**Customized Staff Attendance Management App**](https://github.com) — Flutter & Firebase mobile app with QR scanning and GPS geofencing.
+2. [**AI-Based Voice Recognition Oral Examination System**](https://github.com) — Python & OpenAI Whisper desktop app with transcription and grading.
