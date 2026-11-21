@@ -6,7 +6,8 @@ Entry-level **Software Developer** based in Madurai, India, specializing in cros
 - 🤖 **AI & Data Science:** Python, OpenAI Whisper, Speech-to-Text, Scikit-Learn, TensorFlow, PyTorch, Power BI, Tableau
 - 💻 **Languages:** Python, Java, Dart, C, C++, SQL
 - 📫 **Email:** promodmuthuram29@gmail.com
-- 🔗 **LinkedIn:** [://linkedin.com](https://www.://linkedin.com/)
+- 🔗 **LinkedIn:** [linkedin.com/in/promod-muthuram](https://www.linkedin.com/in/promod-muthuram/)
+
 
 #### 🚀 Featured Projects
 1. **Customized Staff Attendance Management App** — Multi-branch Flutter & Firebase mobile app with QR code scanning and 15-meter GPS geofencing.
